@@ -1,0 +1,11 @@
+[package]
+name = "zync"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+keywords = ["Machine Learning"]
+repository = "https://github.com/robclu/zync"
+description = "A Rust library for fault-tolerance distributed machine learning."
+readme = "README.md"
+
+[dependencies]
